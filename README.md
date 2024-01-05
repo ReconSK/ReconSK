@@ -1,7 +1,7 @@
 ![image](https://github.com/ReconSK/ReconSK/assets/155732998/cb498e80-e202-4964-b233-30f532ba7912)
 ### Hi there, I'm Alina 👋
 
-I'm the Full-Stack developer, with knowldge of Javascript/Typescript as my second native language
+I'm the Full-Stack developer, with knowledge of Javascript/Typescript as my second native language
 
 ### My brief overview:
 - 💥 Fast learner
